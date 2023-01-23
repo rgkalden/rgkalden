@@ -5,17 +5,21 @@ Welcome to my project portfolio! Feel free to check out the projects I am workin
 <h3 align="left">Analytics Projects</h3>
 
 - [8-week-sql-challenge](https://github.com/rgkalden/8-week-sql-challenge)
+  - Practice analyzing data with SQL through eight different case studies related to product analytics 
 
 - [ecommerce-analytics](https://github.com/rgkalden/ecommerce-analytics)
+  - Design an ecommerce analytics dashboard in Tableau to track key metrics for the Google Merchandise Store 
 
 - [victoria-airbnb-analysis](https://github.com/rgkalden/victoria-airbnb-analysis)
+  - Analyze AirBnb listings data with Tableau to explore the profitability of renting out a property in Victoria
 
 <h3 align="left">Data Apps</h3>
 
 - [shelter-animal-outcomes](https://github.com/rgkalden/shelter-animal-outcomes)
+  - Improve outcomes for shelter animals with analytics and machine learning with this Streamlit web app
 
 - [recipepal-app](https://github.com/rgkalden/recipepal-app)
-
+  - Recipe search web app built with Streamlit. Whether you are short on time or want to try something new, RecipePal has got your back in the kitchen.
 
 
 <h3 align="left">Connect with me:</h3>
