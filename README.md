@@ -1,14 +1,22 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
 
-<h3 align="left">🔭 I’m currently working on: </h3>
+Welcome to my project portfolio! Feel free to check out the projects I am working on:
+
+<h3 align="left">Analytics Projects</h3>
+
+- [8-week-sql-challenge](https://github.com/rgkalden/8-week-sql-challenge)
 
 - [ecommerce-analytics](https://github.com/rgkalden/ecommerce-analytics)
+
+- [victoria-airbnb-analysis](https://github.com/rgkalden/victoria-airbnb-analysis)
+
+<h3 align="left">Data Apps</h3>
 
 - [shelter-animal-outcomes](https://github.com/rgkalden/shelter-animal-outcomes)
 
 - [recipepal-app](https://github.com/rgkalden/recipepal-app)
 
-- [victoria-airbnb-analysis](https://github.com/rgkalden/victoria-airbnb-analysis)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
