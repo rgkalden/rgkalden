@@ -2,7 +2,7 @@
 
 Welcome to my project portfolio! Feel free to check out the projects I am working on:
 
-<h3 align="left">Analytics Projects</h3>
+<h3 align="left">📊 Analytics Projects</h3>
 
 - [8-week-sql-challenge](https://github.com/rgkalden/8-week-sql-challenge)
   - Practice analyzing data with SQL through eight different case studies related to product analytics 
@@ -13,7 +13,7 @@ Welcome to my project portfolio! Feel free to check out the projects I am workin
 - [victoria-airbnb-analysis](https://github.com/rgkalden/victoria-airbnb-analysis)
   - Analyze AirBnb listings data with Tableau to explore the profitability of renting out a property in Victoria
 
-<h3 align="left">Data Apps</h3>
+<h3 align="left">📱 Data Apps</h3>
 
 - [shelter-animal-outcomes](https://github.com/rgkalden/shelter-animal-outcomes)
   - Improve outcomes for shelter animals with analytics and machine learning with this Streamlit web app
