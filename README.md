@@ -15,7 +15,7 @@ Welcome to my project portfolio! Feel free to check out the projects I am workin
 
 <h3 align="left">📱 Data Apps</h3>
 
-- [clique-bait-analytics](https://github.com/rgkalden/clique-bait-analytics))
+- [clique-bait-analytics](https://github.com/rgkalden/clique-bait-analytics)
   - Develop data app to illustrate the product analytics for a seafood ecommerce site 
 
 - [shelter-animal-outcomes](https://github.com/rgkalden/shelter-animal-outcomes)
